@@ -1,4 +1,4 @@
 # titanic-classification
-Memprediksi penumpang yang selamat dengan algoritma Decision Tree yang menghasilkan akurasi sebesar 0.77
+Predicting safe passengers with the Decision Tree algorithm which produces an accuracy of 0.77
 
 ![](Confussion%20Matrix.PNG)
